@@ -1,68 +1,143 @@
-# 🎯 CareerPath AI — Final Production App
+# CareerPath AI
 
-**Student:** Hein Htet Phyo | **ID:** 25036746
-**Module:** UFCEKP-30-3 | **University:** UWE Bristol | **April 2026**
+Streamlit-based IT career recommendation web app developed for the UWE Bristol module `UFCEKP-30-3`.
 
----
+The app collects a user's technical skills, interest areas, and career preferences, then uses an `XGBoost` classification model to predict suitable IT roles and generate a personalised learning roadmap.
 
-## 🚀 How to Run
+## Student Information
+
+- Student: Hein Htet Phyo
+- Student ID: 25036746
+- Module: UFCEKP-30-3
+- University: UWE Bristol
+- Year: 2026
+
+## Project Overview
+
+This project combines:
+
+- a `Streamlit` user interface
+- an `XGBoost` machine learning model
+- CSV-based datasets for user profiles, role requirements, metadata, roadmaps, and learning resources
+
+The app provides:
+
+- top 3 recommended IT roles
+- readiness scores across all roles
+- a detailed deep-dive analysis for a selected role
+- skill gap analysis
+- a personalised roadmap with suggested learning resources
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+
+## Project Structure
+
+```text
+final_app/
+├── app.py
+├── README.md
+├── requirements.txt
+└── data/
+    ├── resource_catalogue.csv
+    ├── roadmap_templates.csv
+    ├── role_metadata.csv
+    ├── role_skill_matrix.csv
+    └── user_profiles.csv
+```
+
+## Datasets
+
+The app uses five CSV files stored in the `data/` folder:
+
+1. `user_profiles.csv`
+   Training examples of user skills, interests, preferences, and target roles.
+2. `role_skill_matrix.csv`
+   Required skill levels for each IT role.
+3. `role_metadata.csv`
+   Role descriptions and related metadata.
+4. `roadmap_templates.csv`
+   Template learning steps for each role.
+5. `resource_catalogue.csv`
+   Learning resources mapped to skills, levels, and role relevance.
+
+## How the App Works
+
+1. The user enters skill levels, interests, and preferences in the Streamlit interface.
+2. `app.py` loads the datasets from the `data/` folder.
+3. The app trains an `XGBoost` model on the profile dataset.
+4. The trained model predicts ranked IT career matches.
+5. The app calculates readiness scores and skill gaps.
+6. A role-specific roadmap and suggested resources are displayed.
+
+## How to Run Locally
+
+Install dependencies:
 
 ```bash
-# 1. Install dependencies
 pip install -r requirements.txt
+```
 
-# 2. Run the app
+Run the app:
+
+```bash
 streamlit run app.py
 ```
 
-Opens at: **http://localhost:8501**
+The app will usually open at:
 
----
-
-## 📁 Folder Structure
-
-```
-final_app/
-├── app.py              ← Main Streamlit app (990 lines)
-├── requirements.txt    ← Python dependencies
-├── README.md           ← This file
-└── data/               ← All 5 CSV datasets
-    ├── user_profiles.csv
-    ├── role_skill_matrix.csv
-    ├── role_metadata.csv
-    ├── roadmap_templates.csv
-    └── resource_catalogue.csv
+```text
+http://localhost:8501
 ```
 
----
+## Notes About Google Colab
 
-## 🎨 Design
+This final app is not directly connected to Google Colab.
 
-- **Theme:** Dark (matches IT_Career_Planner_UI_v2.html exactly)
-- **Fonts:** Syne (display) + DM Sans (body) + DM Mono (code)
-- **Background:** Animated mesh gradient + grid dots
-- **Colours:** Purple (#a855f7) + Pink (#ec4899) + Cyan (#06b6d4) gradients
-- **All buttons clickable** with hover effects
+If Colab was used during development, it was likely for:
 
-## ✨ Features
+- experimenting with data
+- testing the model
+- prototyping machine learning code
 
-1. 🛠️ Technical Skills sliders (10 skills)
-2. 💡 Interest Areas sliders (6 interests)
-3. ⚙️ Preferences dropdowns (work type, learning style, career goal)
-4. 🚀 Run button with animated spinner
-5. 🏆 Top 3 role cards with readiness scores + progress bars
-6. 📊 All 6 roles readiness chart
-7. 🔍 Role pills to switch between roles
-8. 💡 Why-it-fits card
-9. 📊 Skill Gap tab with visual bars + colour-coded badges
-10. 🗺️ Roadmap tab with steps, priorities, clickable resource links
-11. Step indicators (1 → 2 → 3) that activate as you progress
+In the final submission, the Streamlit app runs independently from `app.py` using the local project files.
 
----
+## GitHub Upload
 
-## 🌐 Deploy Free on Streamlit Cloud
+To upload the project to GitHub:
 
-1. Push this folder to GitHub
-2. Go to **share.streamlit.io**
-3. Connect your repo → set `app.py` as main file
-4. Click Deploy → live public URL instantly!
+```bash
+git init
+git add .
+git commit -m "Initial project upload"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git push -u origin main
+```
+
+You can also include any `.ipynb` notebook files in the same repository if you want to show your development or experimentation work. They do not need a live connection to `app.py`.
+
+## Submission Zip
+
+To create a zip file for submission:
+
+```bash
+zip -r final_app.zip final_app
+```
+
+Or compress the project folder directly from Finder on macOS.
+
+## Future Improvements
+
+- split the large `app.py` file into smaller modules
+- save and load a pre-trained model instead of retraining at runtime
+- improve mobile responsiveness further
+- add model evaluation visualisations inside the app
+
