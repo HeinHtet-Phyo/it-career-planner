@@ -1,0 +1,37 @@
+role,skill_tag,step_order,step_template,project_step_flag
+Data Analyst,Statistics,1,Step 1 - Strengthen Statistics for Data Interpretation,0
+Data Analyst,SQL,2,Step 2 - Improve SQL Querying for Data Extraction and Reporting,0
+Data Analyst,Data Visualisation,3,Step 3 - Develop Dashboard and Visualisation Skills for Insight Communication,0
+Data Analyst,Python,4,Step 4 - Improve Python for Data Cleaning and Analysis,0
+Data Analyst,Project,5,"Step 5 - Apply Data Cleaning, Analysis, and Visualisation in a Mini Project",1
+Data Analyst,Communication,6,Step 6 - Strengthen Insight Communication and Reporting Practice,0
+Data Scientist,Python,1,Step 1 - Strengthen Python for Data Processing and Model Development,0
+Data Scientist,Statistics,2,Step 2 - Improve Statistics for Predictive Analysis and Experimentation,0
+Data Scientist,Machine Learning,3,Step 3 - Develop Machine Learning Skills for Classification and Prediction,0
+Data Scientist,SQL,4,Step 4 - Improve SQL for Data Access and Feature Preparation,0
+Data Scientist,Project,5,Step 5 - Apply Data Preparation and Modelling in a Small Data Science Project,1
+Data Scientist,Visualisation,6,Step 6 - Strengthen Visualisation for Insight Communication,0
+Machine Learning Engineer,Python,1,Step 1 - Strengthen Python for Production-Oriented ML Development,0
+Machine Learning Engineer,Machine Learning,2,Step 2 - Improve Model Building and Evaluation Skills,0
+Machine Learning Engineer,Programming Fundamentals,3,Step 3 - Strengthen Software Engineering Foundations for ML Systems,0
+Machine Learning Engineer,Cloud,4,Step 4 - Develop Cloud Skills for Model Deployment Workflows,0
+Machine Learning Engineer,Project,5,Step 5 - Apply Model Building and Deployment in a Small ML Engineering Project,1
+Machine Learning Engineer,Git,6,Step 6 - Strengthen Version Control and Workflow Management for ML Projects,0
+Software Engineer,Programming Fundamentals,1,Step 1 - Strengthen Core Programming and Problem-Solving Skills,0
+Software Engineer,Git,2,Step 2 - Improve Git and Version Control for Software Development Workflows,0
+Software Engineer,Python,3,Step 3 - Strengthen Python for Application Development,0
+Software Engineer,Cloud,4,Step 4 - Develop Basic Cloud and Deployment Awareness for Software Delivery,0
+Software Engineer,Project,5,"Step 5 - Apply Coding, Testing, and Version Control in a Small Software Project",1
+Software Engineer,Web Development,6,Step 6 - Improve Front-End or Full-Stack Awareness for Broader Development Skills,0
+Web Developer,Web Development,1,"Step 1 - Strengthen HTML, CSS, and Layout Skills for Responsive Interfaces",0
+Web Developer,Programming Fundamentals,2,Step 2 - Improve JavaScript and Core Programming for Interactivity,0
+Web Developer,Git,3,Step 3 - Strengthen Git and Version Control for Web Projects,0
+Web Developer,Data Visualisation,4,Step 4 - Develop UI Presentation and Visual Communication Skills,0
+Web Developer,Project,5,Step 5 - Build a Small Responsive Website or Interactive Front-End Project,1
+Web Developer,Cloud,6,Step 6 - Learn Basic Hosting and Deployment Skills for Web Delivery,0
+Cloud/DevOps Engineer,Cloud,1,Step 1 - Strengthen Cloud Fundamentals for Infrastructure and Deployment,0
+Cloud/DevOps Engineer,DevOps,2,Step 2 - Improve Automation and CI/CD Skills for Delivery Pipelines,0
+Cloud/DevOps Engineer,Git,3,Step 3 - Strengthen Git Workflows for Infrastructure and Deployment Changes,0
+Cloud/DevOps Engineer,Programming Fundamentals,4,Step 4 - Improve Scripting and Programming Foundations for Automation,0
+Cloud/DevOps Engineer,Project,5,Step 5 - Apply Cloud Setup and Automation in a Small Deployment Project,1
+Cloud/DevOps Engineer,Monitoring,6,Step 6 - Develop Monitoring and Operational Awareness for Reliable Systems,0

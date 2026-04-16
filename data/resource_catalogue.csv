@@ -1,0 +1,301 @@
+resource_id,skill_tag,level,resource_title,platform,resource_type,role_relevance,url
+R001,Python,Beginner,Python,Kaggle Learn,Learning Path,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/python
+R002,Python,Beginner,Crash Course on Python,Coursera,Tutorial,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/python-crash-course
+R003,Python,Beginner,Python Beginner Project,Coursera,Project,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/projects/python-beginner-project
+R004,Python,Beginner,Python,Kaggle Learn,Practice,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/python
+R005,Python,Beginner,The Python Tutorial,Python Docs,Documentation,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://docs.python.org/3/tutorial/index.html
+R006,Python,Intermediate,Pandas,Kaggle Learn,Learning Path,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/pandas
+R007,Python,Intermediate,"Python for Data Science, AI & Development",Coursera,Tutorial,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/python-for-applied-data-science-ai
+R008,Python,Intermediate,Data Analysis with Python Project,Coursera,Project,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/projects/data-analysis-with-python
+R009,Python,Intermediate,Pandas,Kaggle Learn,Practice,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/pandas
+R010,Python,Intermediate,The Python Standard Library,Python Docs,Documentation,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://docs.python.org/3/library/index.html
+R011,Python,Advanced,Advanced SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/advanced-sql
+R012,Python,Advanced,Python 3 Programming,Coursera,Tutorial,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/specializations/python-3-programming
+R013,Python,Advanced,"Python OOP, Sockets, and Web Services",Coursera,Project,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/projects/python-oops-sockets-and-web-services
+R014,Python,Advanced,Intro to Machine Learning,Kaggle Learn,Practice,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/intro-to-machine-learning
+R015,Python,Advanced,The Python Language Reference,Python Docs,Documentation,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://docs.python.org/3/reference/index.html
+R016,SQL,Beginner,Intro to SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist,https://www.kaggle.com/learn/intro-to-sql
+R017,SQL,Beginner,SQL for Data Science,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/sql-for-data-science
+R018,SQL,Beginner,SQL for Data Science with R,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/sql-for-data-science-with-r
+R019,SQL,Beginner,Intro to SQL,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/intro-to-sql
+R020,SQL,Beginner,PostgreSQL Tutorial,PostgreSQL Docs,Documentation,Data Analyst;Data Scientist,https://www.postgresql.org/docs/current/tutorial.html
+R021,SQL,Intermediate,Advanced SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R022,SQL,Intermediate,Databases and SQL for Data Science with Python,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases
+R023,SQL,Intermediate,SQL Joins and Subqueries,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/sql-joins-subqueries
+R024,SQL,Intermediate,Advanced SQL,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R025,SQL,Intermediate,SQL Commands,PostgreSQL Docs,Documentation,Data Analyst;Data Scientist,https://www.postgresql.org/docs/current/sql.html
+R026,SQL,Advanced,Advanced SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R027,SQL,Advanced,Data Analysis Using SQL,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/data-analysis-sql
+R028,SQL,Advanced,Optimizing SQL Queries,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/optimizing-sql-queries
+R029,SQL,Advanced,Advanced SQL,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R030,SQL,Advanced,Performance Tips,PostgreSQL Docs,Documentation,Data Analyst;Data Scientist,https://www.postgresql.org/docs/current/performance-tips.html
+R031,Statistics,Beginner,Basic Statistics,Coursera,Learning Path,Data Analyst;Data Scientist,https://www.coursera.org/learn/basic-statistics
+R032,Statistics,Beginner,Statistics for Data Science with Python,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/statistics-for-data-science-python
+R033,Statistics,Beginner,Statistics with Python Project,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/statistics-with-python
+R034,Statistics,Beginner,Intro to Machine Learning,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/intro-to-machine-learning
+R035,Statistics,Beginner,"OpenIntro Statistics, 4th Edition",OpenIntro,Documentation,Data Analyst;Data Scientist,https://www.openintro.org/book/os/
+R036,Statistics,Intermediate,Statistics with Python,Coursera,Learning Path,Data Analyst;Data Scientist,https://www.coursera.org/specializations/statistics-with-python
+R037,Statistics,Intermediate,Inferential Statistical Analysis with Python,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/inferential-statistical-analysis-python
+R038,Statistics,Intermediate,Hypothesis Testing and Significance Testing,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/hypothesis-testing-and-significance-testing
+R039,Statistics,Intermediate,Feature Engineering,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/feature-engineering
+R040,Statistics,Intermediate,OpenIntro Statistics,OpenIntro,Documentation,Data Analyst;Data Scientist,https://www.openintro.org/book/stat/
+R041,Statistics,Advanced,Advanced Statistics for Data Science,Coursera,Learning Path,Data Analyst;Data Scientist,https://www.coursera.org/specializations/advanced-statistics-data-science
+R042,Statistics,Advanced,Bayesian Statistics,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/bayesian-statistics
+R043,Statistics,Advanced,Bayesian A/B Testing,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/bayesian-ab-testing
+R044,Statistics,Advanced,Feature Engineering,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/feature-engineering
+R045,Statistics,Advanced,"OpenIntro Statistics, 4th Edition",OpenIntro,Documentation,Data Analyst;Data Scientist,https://www.openintro.org/book/os/
+R046,Machine Learning,Beginner,Intro to Machine Learning,Kaggle Learn,Learning Path,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intro-to-machine-learning
+R047,Machine Learning,Beginner,Machine Learning,Coursera,Tutorial,Data Scientist;Machine Learning Engineer,https://www.coursera.org/learn/machine-learning
+R048,Machine Learning,Beginner,Machine Learning with Python: From Linear Models to Gradient Boosting,Coursera,Project,Data Scientist;Machine Learning Engineer,https://www.coursera.org/projects/machine-learning-with-python-zero-to-gbms
+R049,Machine Learning,Beginner,Intro to Machine Learning,Kaggle Learn,Practice,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intro-to-machine-learning
+R050,Machine Learning,Beginner,Getting Started,scikit-learn Docs,Documentation,Data Scientist;Machine Learning Engineer,https://scikit-learn.org/stable/getting_started.html
+R051,Machine Learning,Intermediate,Intermediate Machine Learning,Kaggle Learn,Learning Path,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intermediate-machine-learning
+R052,Machine Learning,Intermediate,Machine Learning Specialization,Coursera,Tutorial,Data Scientist;Machine Learning Engineer,https://www.coursera.org/specializations/machine-learning-introduction
+R053,Machine Learning,Intermediate,Classification Trees in Python,Coursera,Project,Data Scientist;Machine Learning Engineer,https://www.coursera.org/projects/classification-trees-in-python
+R054,Machine Learning,Intermediate,Intermediate Machine Learning,Kaggle Learn,Practice,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intermediate-machine-learning
+R055,Machine Learning,Intermediate,User Guide,scikit-learn Docs,Documentation,Data Scientist;Machine Learning Engineer,https://scikit-learn.org/stable/user_guide.html
+R056,Machine Learning,Advanced,Feature Engineering,Kaggle Learn,Learning Path,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/feature-engineering
+R057,Machine Learning,Advanced,Deep Learning Specialization,Coursera,Tutorial,Data Scientist;Machine Learning Engineer,https://www.coursera.org/specializations/deep-learning
+R058,Machine Learning,Advanced,Neural Network Deep Learning Model with TensorFlow,Coursera,Project,Data Scientist;Machine Learning Engineer,https://www.coursera.org/projects/neural-network-deep-learning-model-tensorflow
+R059,Machine Learning,Advanced,Feature Engineering,Kaggle Learn,Practice,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/feature-engineering
+R060,Machine Learning,Advanced,API Reference,scikit-learn Docs,Documentation,Data Scientist;Machine Learning Engineer,https://scikit-learn.org/stable/modules/classes.html
+R061,Programming Fundamentals,Beginner,Scientific Computing with Python,freeCodeCamp,Learning Path,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/scientific-computing-with-python/
+R062,Programming Fundamentals,Beginner,JavaScript Algorithms and Data Structures,freeCodeCamp,Tutorial,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+R063,Programming Fundamentals,Beginner,Introduction to Programming with Python and Java,Coursera,Project,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.coursera.org/projects/introduction-to-programming-with-python-and-java
+R064,Programming Fundamentals,Beginner,Practice Python,HackerRank,Practice,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.hackerrank.com/domains/python
+R065,Programming Fundamentals,Beginner,Getting started with the web,MDN Web Docs,Documentation,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+R066,Programming Fundamentals,Intermediate,Data Structures and Algorithms,freeCodeCamp,Learning Path,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/data-structures-and-algorithms/
+R067,Programming Fundamentals,Intermediate,Coding Interview Prep,freeCodeCamp,Tutorial,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/coding-interview-prep/
+R068,Programming Fundamentals,Intermediate,"Algorithms, Part I",Coursera,Project,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.coursera.org/learn/algorithms-part1
+R069,Programming Fundamentals,Intermediate,Practice Data Structures,HackerRank,Practice,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.hackerrank.com/domains/data-structures
+R070,Programming Fundamentals,Intermediate,JavaScript Guide,MDN Web Docs,Documentation,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+R071,Programming Fundamentals,Advanced,Coding Interview Prep,freeCodeCamp,Learning Path,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/coding-interview-prep/
+R072,Programming Fundamentals,Advanced,Back End Development and APIs,freeCodeCamp,Tutorial,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/back-end-development-and-apis/
+R073,Programming Fundamentals,Advanced,"Algorithms, Part II",Coursera,Project,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.coursera.org/learn/algorithms-part2
+R074,Programming Fundamentals,Advanced,Practice Algorithms,HackerRank,Practice,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.hackerrank.com/domains/algorithms
+R075,Programming Fundamentals,Advanced,Web APIs,MDN Web Docs,Documentation,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://developer.mozilla.org/en-US/docs/Web/API
+R076,Web Development,Beginner,Getting started with the web,MDN Web Docs,Learning Path,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+R077,Web Development,Beginner,Responsive Web Design,freeCodeCamp,Tutorial,Web Developer;Software Engineer,https://www.freecodecamp.org/learn/responsive-web-design/
+R078,Web Development,Beginner,"HTML, CSS, and Javascript for Web Developers",Coursera,Project,Web Developer;Software Engineer,https://www.coursera.org/learn/html-css-javascript-for-web-developers
+R079,Web Development,Beginner,Frontend Mentor Challenges - Newbie,Frontend Mentor,Practice,Web Developer;Software Engineer,https://www.frontendmentor.io/challenges?difficulty=1
+R080,Web Development,Beginner,HTML: Structuring the web,MDN Web Docs,Documentation,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/HTML
+R081,Web Development,Intermediate,Learn JavaScript,MDN Web Docs,Learning Path,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+R082,Web Development,Intermediate,JavaScript Algorithms and Data Structures,freeCodeCamp,Tutorial,Web Developer;Software Engineer,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+R083,Web Development,Intermediate,React Basics,Coursera,Project,Web Developer;Software Engineer,https://www.coursera.org/learn/react-basics
+R084,Web Development,Intermediate,Frontend Mentor Challenges - Junior,Frontend Mentor,Practice,Web Developer;Software Engineer,https://www.frontendmentor.io/challenges?difficulty=2
+R085,Web Development,Intermediate,CSS: Styling the web,MDN Web Docs,Documentation,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/CSS
+R086,Web Development,Advanced,Tools and testing,MDN Web Docs,Learning Path,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing
+R087,Web Development,Advanced,Front End Development Libraries,freeCodeCamp,Tutorial,Web Developer;Software Engineer,https://www.freecodecamp.org/learn/front-end-development-libraries/
+R088,Web Development,Advanced,Advanced React,Coursera,Project,Web Developer;Software Engineer,https://www.coursera.org/learn/advanced-react
+R089,Web Development,Advanced,Frontend Mentor Challenges - Advanced,Frontend Mentor,Practice,Web Developer;Software Engineer,https://www.frontendmentor.io/challenges?difficulty=4
+R090,Web Development,Advanced,Web APIs,MDN Web Docs,Documentation,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Web/API
+R091,Cloud,Beginner,AWS Cloud Practitioner Essentials,AWS Skill Builder,Learning Path,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
+R092,Cloud,Beginner,AWS Technical Essentials,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/1928/aws-technical-essentials
+R093,Cloud,Beginner,AWS Cloud Technical Essentials,Coursera,Project,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/aws-cloud-technical-essentials
+R094,Cloud,Beginner,Exam Prep: AWS Certified Cloud Practitioner,AWS Skill Builder,Practice,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner
+R095,Cloud,Beginner,Overview of Amazon Web Services,AWS Docs,Documentation,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+R096,Cloud,Intermediate,AWS Solutions Architect - Associate,AWS Skill Builder,Learning Path,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/1851/aws-solutions-architect-associate
+R097,Cloud,Intermediate,AWS Cloud Architecting,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/aws-cloud-architecting
+R098,Cloud,Intermediate,"Cloud Computing Concepts, Part 1",Coursera,Project,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/cloud-computing
+R099,Cloud,Intermediate,Exam Prep: AWS Certified Solutions Architect - Associate,AWS Skill Builder,Practice,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/14760/exam-prep-aws-certified-solutions-architect-associate
+R100,Cloud,Intermediate,AWS Well-Architected Framework,AWS Docs,Documentation,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+R101,Cloud,Advanced,AWS Certified DevOps Engineer - Professional,AWS Skill Builder,Learning Path,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9434/aws-certified-devops-engineer-professional
+R102,Cloud,Advanced,AWS Cloud Operations,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/12471/aws-cloud-operations
+R103,Cloud,Advanced,Essential Google Cloud Infrastructure: Foundation,Coursera,Project,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/gcp-infrastructure-google-cloud
+R104,Cloud,Advanced,Exam Prep: AWS Certified DevOps Engineer - Professional,AWS Skill Builder,Practice,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9446/exam-prep-aws-certified-devops-engineer-professional
+R105,Cloud,Advanced,Large-Scale Migration to AWS,AWS Docs,Documentation,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-enterprise/welcome.html
+R106,DevOps,Beginner,Docker overview,Docker Docs,Learning Path,Cloud/DevOps Engineer,https://docs.docker.com/get-started/overview/
+R107,DevOps,Beginner,Introduction to DevOps on AWS,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/1850/introduction-to-devops-on-aws
+R108,DevOps,Beginner,DevOps Basics for Everyone,Coursera,Project,Cloud/DevOps Engineer,https://www.coursera.org/learn/devops-basics-for-everyone
+R109,DevOps,Beginner,Introduction to GitHub,GitHub Skills,Practice,Cloud/DevOps Engineer,https://skills.github.com/courses/introduction-to-github
+R110,DevOps,Beginner,Get started with Docker,Docker Docs,Documentation,Cloud/DevOps Engineer,https://docs.docker.com/get-started/
+R111,DevOps,Intermediate,Docker Compose,Docker Docs,Learning Path,Cloud/DevOps Engineer,https://docs.docker.com/compose/
+R112,DevOps,Intermediate,Getting into DevOps,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9329/getting-into-devops
+R113,DevOps,Intermediate,Continuous Delivery & Deployment,Coursera,Project,Cloud/DevOps Engineer,https://www.coursera.org/learn/continuous-delivery-deployment
+R114,DevOps,Intermediate,GitHub Actions,GitHub Skills,Practice,Cloud/DevOps Engineer,https://skills.github.com/courses/github-actions
+R115,DevOps,Intermediate,Docker Engine,Docker Docs,Documentation,Cloud/DevOps Engineer,https://docs.docker.com/engine/
+R116,DevOps,Advanced,Docker Swarm,Docker Docs,Learning Path,Cloud/DevOps Engineer,https://docs.docker.com/engine/swarm/
+R117,DevOps,Advanced,Advanced DevOps on AWS,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9434/advanced-devops-on-aws
+R118,DevOps,Advanced,Site Reliability Engineering: Measuring and Managing Reliability,Coursera,Project,Cloud/DevOps Engineer,https://www.coursera.org/learn/site-reliability-engineering-slos
+R119,DevOps,Advanced,Release-based workflow,GitHub Skills,Practice,Cloud/DevOps Engineer,https://skills.github.com/courses/release-based-workflow
+R120,DevOps,Advanced,Docker reference,Docker Docs,Documentation,Cloud/DevOps Engineer,https://docs.docker.com/reference/
+R121,Data Visualisation,Beginner,Create and use analytics reports with Power BI,Microsoft Learn,Learning Path,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/
+R122,Data Visualisation,Beginner,AWS Cloud Practitioner Training,YouTube,Tutorial,Data Analyst;Data Scientist,https://www.youtube.com/watch?v=UO98lJQ3QGI
+R123,Data Visualisation,Beginner,Data Visualization with Python,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/learn/data-visualization-python
+R124,Data Visualisation,Beginner,Data Visualization,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/data-visualization
+R125,Data Visualisation,Beginner,Get started building with Power BI,Microsoft Learn,Documentation,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
+R126,Data Visualisation,Intermediate,Build Power BI visuals and reports,Microsoft Learn,Learning Path,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/training/paths/build-power-bi-visuals/
+R127,Data Visualisation,Intermediate,Git and GitHub Tutorial for Beginners,YouTube,Tutorial,Data Analyst;Data Scientist,https://www.youtube.com/watch?v=hSPmj7mK6ng
+R128,Data Visualisation,Intermediate,Data Visualization with Tableau,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/learn/data-visualization-tableau
+R129,Data Visualisation,Intermediate,Data Visualization,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/data-visualization
+R130,Data Visualisation,Intermediate,Visualization types in Power BI,Microsoft Learn,Documentation,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
+R131,Data Visualisation,Advanced,Manage workspaces and datasets in Power BI,Microsoft Learn,Learning Path,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/training/paths/manage-power-bi/
+R132,Data Visualisation,Advanced,HTML & CSS Full Course - Beginner to Pro,YouTube,Tutorial,Data Analyst;Data Scientist,https://www.youtube.com/watch?v=K87gCvGcRWs
+R133,Data Visualisation,Advanced,Fundamentals of Visualization with Tableau,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/learn/analytics-tableau
+R134,Data Visualisation,Advanced,Data Visualization,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/data-visualization
+R135,Data Visualisation,Advanced,Power BI Embedded analytics,Microsoft Learn,Documentation,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/power-bi/developer/embedded/
+R136,Git,Beginner,Introduction to GitHub,GitHub Skills,Learning Path,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/introduction-to-github
+R137,Git,Beginner,Git and GitHub for Beginners - Crash Course,YouTube,Tutorial,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.youtube.com/watch?v=RGOj5yH7evk
+R138,Git,Beginner,Introduction to Git and GitHub,Coursera,Project,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.coursera.org/learn/introduction-git-github
+R139,Git,Beginner,Introduction to GitHub,GitHub Skills,Practice,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/introduction-to-github
+R140,Git,Beginner,About Version Control,Git Docs,Documentation,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+R141,Git,Intermediate,GitHub Actions,GitHub Skills,Learning Path,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/github-actions
+R142,Git,Intermediate,Python for Data Science - Full Course,YouTube,Tutorial,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.youtube.com/watch?v=Uszj_k0DGsg
+R143,Git,Intermediate,Git for Developers Using GitHub,Coursera,Project,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.coursera.org/projects/git-for-developers-using-github
+R144,Git,Intermediate,GitHub Pages,GitHub Skills,Practice,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/github-pages
+R145,Git,Intermediate,Branches in a Nutshell,Git Docs,Documentation,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+R146,Git,Advanced,Release-based workflow,GitHub Skills,Learning Path,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/release-based-workflow
+R147,Git,Advanced,Docker Full Course for Beginners,YouTube,Tutorial,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.youtube.com/watch?v=qsTthZi23VE
+R148,Git,Advanced,GitHub Actions for CI/CD,Coursera,Project,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.coursera.org/projects/github-actions-for-ci-cd
+R149,Git,Advanced,Review Pull Requests,GitHub Skills,Practice,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/review-pull-requests
+R150,Git,Advanced,Git Objects,Git Docs,Documentation,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
+R151,Python,Beginner,Python,Kaggle Learn,Learning Path,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/python
+R152,Python,Beginner,Crash Course on Python,Coursera,Tutorial,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/python-crash-course
+R153,Python,Beginner,Python Beginner Project,Coursera,Project,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/projects/python-beginner-project
+R154,Python,Beginner,Python,Kaggle Learn,Practice,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/python
+R155,Python,Beginner,The Python Tutorial,Python Docs,Documentation,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://docs.python.org/3/tutorial/index.html
+R156,Python,Intermediate,Pandas,Kaggle Learn,Learning Path,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/pandas
+R157,Python,Intermediate,"Python for Data Science, AI & Development",Coursera,Tutorial,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/python-for-applied-data-science-ai
+R158,Python,Intermediate,Data Analysis with Python Project,Coursera,Project,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/projects/data-analysis-with-python
+R159,Python,Intermediate,Pandas,Kaggle Learn,Practice,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/pandas
+R160,Python,Intermediate,The Python Standard Library,Python Docs,Documentation,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://docs.python.org/3/library/index.html
+R161,Python,Advanced,Advanced SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/advanced-sql
+R162,Python,Advanced,Python 3 Programming,Coursera,Tutorial,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/specializations/python-3-programming
+R163,Python,Advanced,"Python OOP, Sockets, and Web Services",Coursera,Project,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.coursera.org/projects/python-oops-sockets-and-web-services
+R164,Python,Advanced,Intro to Machine Learning,Kaggle Learn,Practice,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://www.kaggle.com/learn/intro-to-machine-learning
+R165,Python,Advanced,The Python Language Reference,Python Docs,Documentation,Data Analyst;Data Scientist;Machine Learning Engineer;Software Engineer,https://docs.python.org/3/reference/index.html
+R166,SQL,Beginner,Intro to SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist,https://www.kaggle.com/learn/intro-to-sql
+R167,SQL,Beginner,SQL for Data Science,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/sql-for-data-science
+R168,SQL,Beginner,SQL for Data Science with R,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/sql-for-data-science-with-r
+R169,SQL,Beginner,Intro to SQL,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/intro-to-sql
+R170,SQL,Beginner,PostgreSQL Tutorial,PostgreSQL Docs,Documentation,Data Analyst;Data Scientist,https://www.postgresql.org/docs/current/tutorial.html
+R171,SQL,Intermediate,Advanced SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R172,SQL,Intermediate,Databases and SQL for Data Science with Python,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases
+R173,SQL,Intermediate,SQL Joins and Subqueries,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/sql-joins-subqueries
+R174,SQL,Intermediate,Advanced SQL,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R175,SQL,Intermediate,SQL Commands,PostgreSQL Docs,Documentation,Data Analyst;Data Scientist,https://www.postgresql.org/docs/current/sql.html
+R176,SQL,Advanced,Advanced SQL,Kaggle Learn,Learning Path,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R177,SQL,Advanced,Data Analysis Using SQL,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/data-analysis-sql
+R178,SQL,Advanced,Optimizing SQL Queries,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/optimizing-sql-queries
+R179,SQL,Advanced,Advanced SQL,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/advanced-sql
+R180,SQL,Advanced,Performance Tips,PostgreSQL Docs,Documentation,Data Analyst;Data Scientist,https://www.postgresql.org/docs/current/performance-tips.html
+R181,Statistics,Beginner,Basic Statistics,Coursera,Learning Path,Data Analyst;Data Scientist,https://www.coursera.org/learn/basic-statistics
+R182,Statistics,Beginner,Statistics for Data Science with Python,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/statistics-for-data-science-python
+R183,Statistics,Beginner,Statistics with Python Project,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/statistics-with-python
+R184,Statistics,Beginner,Intro to Machine Learning,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/intro-to-machine-learning
+R185,Statistics,Beginner,"OpenIntro Statistics, 4th Edition",OpenIntro,Documentation,Data Analyst;Data Scientist,https://www.openintro.org/book/os/
+R186,Statistics,Intermediate,Statistics with Python,Coursera,Learning Path,Data Analyst;Data Scientist,https://www.coursera.org/specializations/statistics-with-python
+R187,Statistics,Intermediate,Inferential Statistical Analysis with Python,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/inferential-statistical-analysis-python
+R188,Statistics,Intermediate,Hypothesis Testing and Significance Testing,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/hypothesis-testing-and-significance-testing
+R189,Statistics,Intermediate,Feature Engineering,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/feature-engineering
+R190,Statistics,Intermediate,OpenIntro Statistics,OpenIntro,Documentation,Data Analyst;Data Scientist,https://www.openintro.org/book/stat/
+R191,Statistics,Advanced,Advanced Statistics for Data Science,Coursera,Learning Path,Data Analyst;Data Scientist,https://www.coursera.org/specializations/advanced-statistics-data-science
+R192,Statistics,Advanced,Bayesian Statistics,Coursera,Tutorial,Data Analyst;Data Scientist,https://www.coursera.org/learn/bayesian-statistics
+R193,Statistics,Advanced,Bayesian A/B Testing,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/projects/bayesian-ab-testing
+R194,Statistics,Advanced,Feature Engineering,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/feature-engineering
+R195,Statistics,Advanced,"OpenIntro Statistics, 4th Edition",OpenIntro,Documentation,Data Analyst;Data Scientist,https://www.openintro.org/book/os/
+R196,Machine Learning,Beginner,Intro to Machine Learning,Kaggle Learn,Learning Path,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intro-to-machine-learning
+R197,Machine Learning,Beginner,Machine Learning,Coursera,Tutorial,Data Scientist;Machine Learning Engineer,https://www.coursera.org/learn/machine-learning
+R198,Machine Learning,Beginner,Machine Learning with Python: From Linear Models to Gradient Boosting,Coursera,Project,Data Scientist;Machine Learning Engineer,https://www.coursera.org/projects/machine-learning-with-python-zero-to-gbms
+R199,Machine Learning,Beginner,Intro to Machine Learning,Kaggle Learn,Practice,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intro-to-machine-learning
+R200,Machine Learning,Beginner,Getting Started,scikit-learn Docs,Documentation,Data Scientist;Machine Learning Engineer,https://scikit-learn.org/stable/getting_started.html
+R201,Machine Learning,Intermediate,Intermediate Machine Learning,Kaggle Learn,Learning Path,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intermediate-machine-learning
+R202,Machine Learning,Intermediate,Machine Learning Specialization,Coursera,Tutorial,Data Scientist;Machine Learning Engineer,https://www.coursera.org/specializations/machine-learning-introduction
+R203,Machine Learning,Intermediate,Classification Trees in Python,Coursera,Project,Data Scientist;Machine Learning Engineer,https://www.coursera.org/projects/classification-trees-in-python
+R204,Machine Learning,Intermediate,Intermediate Machine Learning,Kaggle Learn,Practice,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/intermediate-machine-learning
+R205,Machine Learning,Intermediate,User Guide,scikit-learn Docs,Documentation,Data Scientist;Machine Learning Engineer,https://scikit-learn.org/stable/user_guide.html
+R206,Machine Learning,Advanced,Feature Engineering,Kaggle Learn,Learning Path,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/feature-engineering
+R207,Machine Learning,Advanced,Deep Learning Specialization,Coursera,Tutorial,Data Scientist;Machine Learning Engineer,https://www.coursera.org/specializations/deep-learning
+R208,Machine Learning,Advanced,Neural Network Deep Learning Model with TensorFlow,Coursera,Project,Data Scientist;Machine Learning Engineer,https://www.coursera.org/projects/neural-network-deep-learning-model-tensorflow
+R209,Machine Learning,Advanced,Feature Engineering,Kaggle Learn,Practice,Data Scientist;Machine Learning Engineer,https://www.kaggle.com/learn/feature-engineering
+R210,Machine Learning,Advanced,API Reference,scikit-learn Docs,Documentation,Data Scientist;Machine Learning Engineer,https://scikit-learn.org/stable/modules/classes.html
+R211,Programming Fundamentals,Beginner,Scientific Computing with Python,freeCodeCamp,Learning Path,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/scientific-computing-with-python/
+R212,Programming Fundamentals,Beginner,JavaScript Algorithms and Data Structures,freeCodeCamp,Tutorial,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+R213,Programming Fundamentals,Beginner,Introduction to Programming with Python and Java,Coursera,Project,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.coursera.org/projects/introduction-to-programming-with-python-and-java
+R214,Programming Fundamentals,Beginner,Practice Python,HackerRank,Practice,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.hackerrank.com/domains/python
+R215,Programming Fundamentals,Beginner,Getting started with the web,MDN Web Docs,Documentation,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+R216,Programming Fundamentals,Intermediate,Data Structures and Algorithms,freeCodeCamp,Learning Path,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/data-structures-and-algorithms/
+R217,Programming Fundamentals,Intermediate,Coding Interview Prep,freeCodeCamp,Tutorial,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/coding-interview-prep/
+R218,Programming Fundamentals,Intermediate,"Algorithms, Part I",Coursera,Project,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.coursera.org/learn/algorithms-part1
+R219,Programming Fundamentals,Intermediate,Practice Data Structures,HackerRank,Practice,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.hackerrank.com/domains/data-structures
+R220,Programming Fundamentals,Intermediate,JavaScript Guide,MDN Web Docs,Documentation,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+R221,Programming Fundamentals,Advanced,Coding Interview Prep,freeCodeCamp,Learning Path,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/coding-interview-prep/
+R222,Programming Fundamentals,Advanced,Back End Development and APIs,freeCodeCamp,Tutorial,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.freecodecamp.org/learn/back-end-development-and-apis/
+R223,Programming Fundamentals,Advanced,"Algorithms, Part II",Coursera,Project,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.coursera.org/learn/algorithms-part2
+R224,Programming Fundamentals,Advanced,Practice Algorithms,HackerRank,Practice,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://www.hackerrank.com/domains/algorithms
+R225,Programming Fundamentals,Advanced,Web APIs,MDN Web Docs,Documentation,Software Engineer;Machine Learning Engineer;Web Developer;Cloud/DevOps Engineer,https://developer.mozilla.org/en-US/docs/Web/API
+R226,Web Development,Beginner,Getting started with the web,MDN Web Docs,Learning Path,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+R227,Web Development,Beginner,Responsive Web Design,freeCodeCamp,Tutorial,Web Developer;Software Engineer,https://www.freecodecamp.org/learn/responsive-web-design/
+R228,Web Development,Beginner,"HTML, CSS, and Javascript for Web Developers",Coursera,Project,Web Developer;Software Engineer,https://www.coursera.org/learn/html-css-javascript-for-web-developers
+R229,Web Development,Beginner,Frontend Mentor Challenges - Newbie,Frontend Mentor,Practice,Web Developer;Software Engineer,https://www.frontendmentor.io/challenges?difficulty=1
+R230,Web Development,Beginner,HTML: Structuring the web,MDN Web Docs,Documentation,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/HTML
+R231,Web Development,Intermediate,Learn JavaScript,MDN Web Docs,Learning Path,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+R232,Web Development,Intermediate,JavaScript Algorithms and Data Structures,freeCodeCamp,Tutorial,Web Developer;Software Engineer,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+R233,Web Development,Intermediate,React Basics,Coursera,Project,Web Developer;Software Engineer,https://www.coursera.org/learn/react-basics
+R234,Web Development,Intermediate,Frontend Mentor Challenges - Junior,Frontend Mentor,Practice,Web Developer;Software Engineer,https://www.frontendmentor.io/challenges?difficulty=2
+R235,Web Development,Intermediate,CSS: Styling the web,MDN Web Docs,Documentation,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/CSS
+R236,Web Development,Advanced,Tools and testing,MDN Web Docs,Learning Path,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing
+R237,Web Development,Advanced,Front End Development Libraries,freeCodeCamp,Tutorial,Web Developer;Software Engineer,https://www.freecodecamp.org/learn/front-end-development-libraries/
+R238,Web Development,Advanced,Advanced React,Coursera,Project,Web Developer;Software Engineer,https://www.coursera.org/learn/advanced-react
+R239,Web Development,Advanced,Frontend Mentor Challenges - Advanced,Frontend Mentor,Practice,Web Developer;Software Engineer,https://www.frontendmentor.io/challenges?difficulty=4
+R240,Web Development,Advanced,Web APIs,MDN Web Docs,Documentation,Web Developer;Software Engineer,https://developer.mozilla.org/en-US/docs/Web/API
+R241,Cloud,Beginner,AWS Cloud Practitioner Essentials,AWS Skill Builder,Learning Path,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
+R242,Cloud,Beginner,AWS Technical Essentials,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/1928/aws-technical-essentials
+R243,Cloud,Beginner,AWS Cloud Technical Essentials,Coursera,Project,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/aws-cloud-technical-essentials
+R244,Cloud,Beginner,Exam Prep: AWS Certified Cloud Practitioner,AWS Skill Builder,Practice,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner
+R245,Cloud,Beginner,Overview of Amazon Web Services,AWS Docs,Documentation,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+R246,Cloud,Intermediate,AWS Solutions Architect - Associate,AWS Skill Builder,Learning Path,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/1851/aws-solutions-architect-associate
+R247,Cloud,Intermediate,AWS Cloud Architecting,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/aws-cloud-architecting
+R248,Cloud,Intermediate,"Cloud Computing Concepts, Part 1",Coursera,Project,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/cloud-computing
+R249,Cloud,Intermediate,Exam Prep: AWS Certified Solutions Architect - Associate,AWS Skill Builder,Practice,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/14760/exam-prep-aws-certified-solutions-architect-associate
+R250,Cloud,Intermediate,AWS Well-Architected Framework,AWS Docs,Documentation,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+R251,Cloud,Advanced,AWS Certified DevOps Engineer - Professional,AWS Skill Builder,Learning Path,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9434/aws-certified-devops-engineer-professional
+R252,Cloud,Advanced,AWS Cloud Operations,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/12471/aws-cloud-operations
+R253,Cloud,Advanced,Essential Google Cloud Infrastructure: Foundation,Coursera,Project,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://www.coursera.org/learn/gcp-infrastructure-google-cloud
+R254,Cloud,Advanced,Exam Prep: AWS Certified DevOps Engineer - Professional,AWS Skill Builder,Practice,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9446/exam-prep-aws-certified-devops-engineer-professional
+R255,Cloud,Advanced,Large-Scale Migration to AWS,AWS Docs,Documentation,Cloud/DevOps Engineer;Machine Learning Engineer;Software Engineer,https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-enterprise/welcome.html
+R256,DevOps,Beginner,Docker overview,Docker Docs,Learning Path,Cloud/DevOps Engineer,https://docs.docker.com/get-started/overview/
+R257,DevOps,Beginner,Introduction to DevOps on AWS,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/1850/introduction-to-devops-on-aws
+R258,DevOps,Beginner,DevOps Basics for Everyone,Coursera,Project,Cloud/DevOps Engineer,https://www.coursera.org/learn/devops-basics-for-everyone
+R259,DevOps,Beginner,Introduction to GitHub,GitHub Skills,Practice,Cloud/DevOps Engineer,https://skills.github.com/courses/introduction-to-github
+R260,DevOps,Beginner,Get started with Docker,Docker Docs,Documentation,Cloud/DevOps Engineer,https://docs.docker.com/get-started/
+R261,DevOps,Intermediate,Docker Compose,Docker Docs,Learning Path,Cloud/DevOps Engineer,https://docs.docker.com/compose/
+R262,DevOps,Intermediate,Getting into DevOps,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9329/getting-into-devops
+R263,DevOps,Intermediate,Continuous Delivery & Deployment,Coursera,Project,Cloud/DevOps Engineer,https://www.coursera.org/learn/continuous-delivery-deployment
+R264,DevOps,Intermediate,GitHub Actions,GitHub Skills,Practice,Cloud/DevOps Engineer,https://skills.github.com/courses/github-actions
+R265,DevOps,Intermediate,Docker Engine,Docker Docs,Documentation,Cloud/DevOps Engineer,https://docs.docker.com/engine/
+R266,DevOps,Advanced,Docker Swarm,Docker Docs,Learning Path,Cloud/DevOps Engineer,https://docs.docker.com/engine/swarm/
+R267,DevOps,Advanced,Advanced DevOps on AWS,AWS Skill Builder,Tutorial,Cloud/DevOps Engineer,https://explore.skillbuilder.aws/learn/course/external/view/elearning/9434/advanced-devops-on-aws
+R268,DevOps,Advanced,Site Reliability Engineering: Measuring and Managing Reliability,Coursera,Project,Cloud/DevOps Engineer,https://www.coursera.org/learn/site-reliability-engineering-slos
+R269,DevOps,Advanced,Release-based workflow,GitHub Skills,Practice,Cloud/DevOps Engineer,https://skills.github.com/courses/release-based-workflow
+R270,DevOps,Advanced,Docker reference,Docker Docs,Documentation,Cloud/DevOps Engineer,https://docs.docker.com/reference/
+R271,Data Visualisation,Beginner,Create and use analytics reports with Power BI,Microsoft Learn,Learning Path,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/
+R272,Data Visualisation,Beginner,AWS Cloud Practitioner Training,YouTube,Tutorial,Data Analyst;Data Scientist,https://www.youtube.com/watch?v=UO98lJQ3QGI
+R273,Data Visualisation,Beginner,Data Visualization with Python,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/learn/data-visualization-python
+R274,Data Visualisation,Beginner,Data Visualization,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/data-visualization
+R275,Data Visualisation,Beginner,Get started building with Power BI,Microsoft Learn,Documentation,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
+R276,Data Visualisation,Intermediate,Build Power BI visuals and reports,Microsoft Learn,Learning Path,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/training/paths/build-power-bi-visuals/
+R277,Data Visualisation,Intermediate,Git and GitHub Tutorial for Beginners,YouTube,Tutorial,Data Analyst;Data Scientist,https://www.youtube.com/watch?v=hSPmj7mK6ng
+R278,Data Visualisation,Intermediate,Data Visualization with Tableau,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/learn/data-visualization-tableau
+R279,Data Visualisation,Intermediate,Data Visualization,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/data-visualization
+R280,Data Visualisation,Intermediate,Visualization types in Power BI,Microsoft Learn,Documentation,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
+R281,Data Visualisation,Advanced,Manage workspaces and datasets in Power BI,Microsoft Learn,Learning Path,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/training/paths/manage-power-bi/
+R282,Data Visualisation,Advanced,HTML & CSS Full Course - Beginner to Pro,YouTube,Tutorial,Data Analyst;Data Scientist,https://www.youtube.com/watch?v=K87gCvGcRWs
+R283,Data Visualisation,Advanced,Fundamentals of Visualization with Tableau,Coursera,Project,Data Analyst;Data Scientist,https://www.coursera.org/learn/analytics-tableau
+R284,Data Visualisation,Advanced,Data Visualization,Kaggle Learn,Practice,Data Analyst;Data Scientist,https://www.kaggle.com/learn/data-visualization
+R285,Data Visualisation,Advanced,Power BI Embedded analytics,Microsoft Learn,Documentation,Data Analyst;Data Scientist,https://learn.microsoft.com/en-us/power-bi/developer/embedded/
+R286,Git,Beginner,Introduction to GitHub,GitHub Skills,Learning Path,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/introduction-to-github
+R287,Git,Beginner,Git and GitHub for Beginners - Crash Course,YouTube,Tutorial,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.youtube.com/watch?v=RGOj5yH7evk
+R288,Git,Beginner,Introduction to Git and GitHub,Coursera,Project,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.coursera.org/learn/introduction-git-github
+R289,Git,Beginner,Introduction to GitHub,GitHub Skills,Practice,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/introduction-to-github
+R290,Git,Beginner,About Version Control,Git Docs,Documentation,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+R291,Git,Intermediate,GitHub Actions,GitHub Skills,Learning Path,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/github-actions
+R292,Git,Intermediate,Python for Data Science - Full Course,YouTube,Tutorial,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.youtube.com/watch?v=Uszj_k0DGsg
+R293,Git,Intermediate,Git for Developers Using GitHub,Coursera,Project,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.coursera.org/projects/git-for-developers-using-github
+R294,Git,Intermediate,GitHub Pages,GitHub Skills,Practice,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/github-pages
+R295,Git,Intermediate,Branches in a Nutshell,Git Docs,Documentation,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+R296,Git,Advanced,Release-based workflow,GitHub Skills,Learning Path,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/release-based-workflow
+R297,Git,Advanced,Docker Full Course for Beginners,YouTube,Tutorial,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.youtube.com/watch?v=qsTthZi23VE
+R298,Git,Advanced,GitHub Actions for CI/CD,Coursera,Project,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://www.coursera.org/projects/github-actions-for-ci-cd
+R299,Git,Advanced,Review Pull Requests,GitHub Skills,Practice,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://skills.github.com/courses/review-pull-requests
+R300,Git,Advanced,Git Objects,Git Docs,Documentation,Software Engineer;Web Developer;Machine Learning Engineer;Cloud/DevOps Engineer,https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
